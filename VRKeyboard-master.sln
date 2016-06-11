@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7C5C7C39-566E-4C12-FA66-9D4BF45E00AE}") = "VRKeyboard-master", "Assembly-CSharp-firstpass.csproj", "{9837BFB3-8FD6-0FD4-3992-BF13E35C4D9E}"
+EndProject
+Project("{7C5C7C39-566E-4C12-FA66-9D4BF45E00AE}") = "VRKeyboard-master", "Assembly-CSharp.csproj", "{0118E60C-BFBF-E032-EB41-CB9191087E34}"
+EndProject
+Project("{7C5C7C39-566E-4C12-FA66-9D4BF45E00AE}") = "VRKeyboard-master", "Assembly-CSharp-Editor.csproj", "{FEE91FCE-253D-A3C6-6B3A-97AA05F2BA7E}"
+EndProject
+Project("{7C5C7C39-566E-4C12-FA66-9D4BF45E00AE}") = "VRKeyboard-master", "Assembly-UnityScript.unityproj", "{CF04ACC4-7FAF-FF4E-C037-AB4427FA3E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9837BFB3-8FD6-0FD4-3992-BF13E35C4D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9837BFB3-8FD6-0FD4-3992-BF13E35C4D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9837BFB3-8FD6-0FD4-3992-BF13E35C4D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9837BFB3-8FD6-0FD4-3992-BF13E35C4D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0118E60C-BFBF-E032-EB41-CB9191087E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0118E60C-BFBF-E032-EB41-CB9191087E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0118E60C-BFBF-E032-EB41-CB9191087E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0118E60C-BFBF-E032-EB41-CB9191087E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE91FCE-253D-A3C6-6B3A-97AA05F2BA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE91FCE-253D-A3C6-6B3A-97AA05F2BA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE91FCE-253D-A3C6-6B3A-97AA05F2BA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE91FCE-253D-A3C6-6B3A-97AA05F2BA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF04ACC4-7FAF-FF4E-C037-AB4427FA3E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF04ACC4-7FAF-FF4E-C037-AB4427FA3E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF04ACC4-7FAF-FF4E-C037-AB4427FA3E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF04ACC4-7FAF-FF4E-C037-AB4427FA3E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
